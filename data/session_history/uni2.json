@@ -1,0 +1,14 @@
+{
+  "session_id": "uni2",
+  "timestamp": "2026-01-14T00:20:15.346512",
+  "messages": [
+    {
+      "type": "human",
+      "content": "what is static embeddings?"
+    },
+    {
+      "type": "ai",
+      "content": "Static embeddings are a type of word embedding where the method learns one fixed embedding for each word in the vocabulary. This means that the vector representation of a word remains the same across different contexts."
+    }
+  ]
+}

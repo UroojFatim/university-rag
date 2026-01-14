@@ -1,0 +1,70 @@
+{
+  "session_id": "uni1",
+  "timestamp": "2026-01-14T00:31:41.424346",
+  "messages": [
+    {
+      "type": "human",
+      "content": "what are sequential models?"
+    },
+    {
+      "type": "ai",
+      "content": "I don't have that in the uploaded materials."
+    },
+    {
+      "type": "human",
+      "content": "what is NLP?"
+    },
+    {
+      "type": "ai",
+      "content": "NLP = building computer programs to analyze, understand and generate human language - either spoken or written (informal)."
+    },
+    {
+      "type": "human",
+      "content": "what is Vector Semantics Embeddings?"
+    },
+    {
+      "type": "ai",
+      "content": "Vector Semantics Embeddings is a computationally implemented version of the distributional hypothesis, which learns representations of word meanings (called embeddings) directly from word distributions in texts."
+    },
+    {
+      "type": "human",
+      "content": "what is NLP?"
+    },
+    {
+      "type": "ai",
+      "content": "NLP = building computer programs to analyze, understand and generate human language - either spoken or written (informal)."
+    },
+    {
+      "type": "human",
+      "content": "what are sequential models"
+    },
+    {
+      "type": "ai",
+      "content": "Sequential models are a type of machine learning model that processes data in order, where the current output or state depends on previous inputs."
+    },
+    {
+      "type": "human",
+      "content": "what are vetor embeddings?"
+    },
+    {
+      "type": "ai",
+      "content": "I don't have that in the uploaded materials."
+    },
+    {
+      "type": "human",
+      "content": "what are vector embeddings?"
+    },
+    {
+      "type": "ai",
+      "content": "I don't have that in the uploaded materials."
+    },
+    {
+      "type": "human",
+      "content": "what are vector embeddings?"
+    },
+    {
+      "type": "ai",
+      "content": "Vector embeddings are a way to represent words or objects as numerical vectors in a high-dimensional space. These vectors capture the meaning and relationships between words, allowing machines to understand the context and nuances of language."
+    }
+  ]
+}
